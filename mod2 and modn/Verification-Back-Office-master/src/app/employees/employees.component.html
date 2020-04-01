@@ -1,0 +1,36 @@
+<app-header-breadcrumb></app-header-breadcrumb>
+<p-panel header="Employees List">
+
+  <div class="btn-group btn-group-toggle" data-toggle="buttons" (click)="onButtonGroupClick($event)">
+    <button type="button " class="btn btn-dark"  (click)="trust()">Trust</button>
+    <button type="button" class="btn btn-dark button_doc" (click)="docStatus()">Document status</button>
+  
+</div>
+
+  <!-- <button type="button" class="btn btn-dark button_doc" (click)="GetCellValues()">status</button> -->
+    <div class="ui-g">
+        <div class="ui-g-10 ui-sm-8"><label style="float:right;">Page Size:</label></div>
+        <div class="ui-g-2 ui-sm-4"><input type="text" pInputText [(ngModel)]="pageSize"></div>
+    </div>
+    <p-table [value]="employee" [paginator]="true" [rows]="pageSize" id="employee">
+        <ng-template pTemplate="header">
+            <tr>
+                <th *ngFor="let col of columns">
+                    {{col.header}}
+                </th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-employee >
+
+            <tr>
+                <td *ngFor="let col of columns">
+
+                    <div *ngIf="col.field != 'status'"><a (click)="goToDepartmentDetails(employee._id)">{{employee[col.field]}}</a></div>
+
+                    <div *ngIf="col.field == 'status'"><a (click)="goToDepartmentDetails(employee._id)">{{employee[col.field]}}</a></div>
+                    <!-- <div *ngIf="col.field == 'DocsStatus'"><a (click)="goToDepartmentDetails(2)">{{employee[col.field]}}</a></div> -->
+                </td>
+            </tr>
+        </ng-template>
+    </p-table>
+</p-panel>

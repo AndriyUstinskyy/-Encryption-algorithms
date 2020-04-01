@@ -1,0 +1,6 @@
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ParityBits\bin\Debug\ParityBits.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ParityBits\bin\Debug\ParityBits.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ParityBits\bin\Debug\ParityBits.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ParityBits\obj\Debug\ParityBits.csprojAssemblyReference.cache
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ParityBits\obj\Debug\ParityBits.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ParityBits\obj\Debug\ParityBits.pdb

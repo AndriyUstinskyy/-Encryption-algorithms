@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\identification\identification\bin\Debug\identification.exe.config
+C:\Users\User\Source\Repos\identification\identification\bin\Debug\identification.exe
+C:\Users\User\Source\Repos\identification\identification\bin\Debug\identification.pdb
+C:\Users\User\Source\Repos\identification\identification\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\identification\identification\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\identification\identification\obj\Debug\identification.exe
+C:\Users\User\Source\Repos\identification\identification\obj\Debug\identification.pdb
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\identification\bin\Debug\identification.exe.config
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\identification\bin\Debug\identification.exe
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\identification\bin\Debug\identification.pdb
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\identification\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\identification\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\identification\obj\Debug\identification.exe
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\identification\obj\Debug\identification.pdb

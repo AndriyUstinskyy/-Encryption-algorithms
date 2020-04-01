@@ -1,0 +1,9 @@
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_5\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Andriy\Desktop\Secure_lab_5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Andriy\Desktop\Secure_lab_5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

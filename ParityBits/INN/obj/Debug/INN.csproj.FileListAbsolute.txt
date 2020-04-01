@@ -1,0 +1,6 @@
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\INN\bin\Debug\INN.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\INN\bin\Debug\INN.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\INN\bin\Debug\INN.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\INN\obj\Debug\INN.csprojAssemblyReference.cache
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\INN\obj\Debug\INN.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\INN\obj\Debug\INN.pdb

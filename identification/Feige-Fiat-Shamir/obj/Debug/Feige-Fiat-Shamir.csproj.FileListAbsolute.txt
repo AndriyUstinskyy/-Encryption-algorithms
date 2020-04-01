@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\identification\Feige-Fiat-Shamir\obj\Debug\Feige-Fiat-Shamir.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\identification\Feige-Fiat-Shamir\bin\Debug\Feige-Fiat-Shamir.exe.config
+C:\Users\User\Source\Repos\identification\Feige-Fiat-Shamir\bin\Debug\Feige-Fiat-Shamir.exe
+C:\Users\User\Source\Repos\identification\Feige-Fiat-Shamir\bin\Debug\Feige-Fiat-Shamir.pdb
+C:\Users\User\Source\Repos\identification\Feige-Fiat-Shamir\obj\Debug\Feige-Fiat-Shamir.exe
+C:\Users\User\Source\Repos\identification\Feige-Fiat-Shamir\obj\Debug\Feige-Fiat-Shamir.pdb
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\Feige-Fiat-Shamir\bin\Debug\Feige-Fiat-Shamir.exe.config
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\Feige-Fiat-Shamir\bin\Debug\Feige-Fiat-Shamir.exe
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\Feige-Fiat-Shamir\bin\Debug\Feige-Fiat-Shamir.pdb
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\Feige-Fiat-Shamir\obj\Debug\Feige-Fiat-Shamir.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\Feige-Fiat-Shamir\obj\Debug\Feige-Fiat-Shamir.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\Feige-Fiat-Shamir\obj\Debug\Feige-Fiat-Shamir.exe
+C:\Users\User\Source\Repos\Захист програм і даних\Модуль №2\identification\Feige-Fiat-Shamir\obj\Debug\Feige-Fiat-Shamir.pdb

@@ -1,0 +1,6 @@
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\RSA\bin\Debug\RSA.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\RSA\bin\Debug\RSA.exe
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\RSA\bin\Debug\RSA.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\RSA\obj\Debug\RSA.exe
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\RSA\obj\Debug\RSA.pdb

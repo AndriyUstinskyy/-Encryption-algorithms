@@ -1,0 +1,6 @@
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Feige\bin\Debug\Feige.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Feige\bin\Debug\Feige.exe
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Feige\bin\Debug\Feige.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Feige\obj\Debug\Feige.csprojAssemblyReference.cache
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Feige\obj\Debug\Feige.exe
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Feige\obj\Debug\Feige.pdb

@@ -1,0 +1,8 @@
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Auth\bin\Debug\Auth.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Auth\bin\Debug\Auth.exe
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Auth\bin\Debug\Auth.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Auth\obj\Debug\Shnorra.csprojAssemblyReference.cache
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Auth\obj\Debug\Auth.exe
+C:\Users\ivase\Documents\FIT\Захист даних\Shnorra\Auth\obj\Debug\Auth.pdb
+C:\Users\Andriy\Desktop\Shnorra\Auth\obj\Debug\Auth.exe
+C:\Users\Andriy\Desktop\Shnorra\Auth\obj\Debug\Auth.pdb

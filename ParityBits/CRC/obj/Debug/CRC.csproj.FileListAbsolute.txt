@@ -1,0 +1,8 @@
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\CRC\bin\Debug\CRC.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\CRC\bin\Debug\CRC.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\CRC\bin\Debug\CRC.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\CRC\obj\Debug\CRC.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\CRC\obj\Debug\CRC.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\CRC\obj\Debug\CRC.csprojAssemblyReference.cache
+C:\Users\Andriy\Desktop\ParityBits\CRC\obj\Debug\CRC.exe
+C:\Users\Andriy\Desktop\ParityBits\CRC\obj\Debug\CRC.pdb

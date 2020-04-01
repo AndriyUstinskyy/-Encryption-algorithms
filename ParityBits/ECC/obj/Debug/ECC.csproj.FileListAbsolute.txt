@@ -1,0 +1,6 @@
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ECC\bin\Debug\ECC.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ECC\bin\Debug\ECC.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ECC\bin\Debug\ECC.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ECC\obj\Debug\ECC.csprojAssemblyReference.cache
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ECC\obj\Debug\ECC.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\ECC\obj\Debug\ECC.pdb

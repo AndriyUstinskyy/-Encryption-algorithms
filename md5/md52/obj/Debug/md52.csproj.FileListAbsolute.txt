@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\md5\md52\bin\Debug\md52.exe.config
+C:\Users\User\Source\Repos\md5\md52\bin\Debug\md52.exe
+C:\Users\User\Source\Repos\md5\md52\bin\Debug\md52.pdb
+C:\Users\User\Source\Repos\md5\md52\obj\Debug\md52.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\md5\md52\obj\Debug\md52.exe
+C:\Users\User\Source\Repos\md5\md52\obj\Debug\md52.pdb

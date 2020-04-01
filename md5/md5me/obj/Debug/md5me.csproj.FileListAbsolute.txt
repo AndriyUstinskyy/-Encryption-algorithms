@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\md5\md5me\bin\Debug\md5me.exe.config
+C:\Users\User\Source\Repos\md5\md5me\bin\Debug\md5me.exe
+C:\Users\User\Source\Repos\md5\md5me\bin\Debug\md5me.pdb
+C:\Users\User\Source\Repos\md5\md5me\obj\Debug\md5me.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\md5\md5me\obj\Debug\md5me.exe
+C:\Users\User\Source\Repos\md5\md5me\obj\Debug\md5me.pdb
+C:\Users\User\Source\Repos\md5\md5me\obj\Debug\md5me.csprojAssemblyReference.cache

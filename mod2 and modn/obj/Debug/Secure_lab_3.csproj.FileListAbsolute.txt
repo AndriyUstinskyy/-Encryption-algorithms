@@ -1,0 +1,20 @@
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_3\bin\Debug\Secure_lab_3.exe.config
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_3\bin\Debug\Secure_lab_3.exe
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_3\bin\Debug\Secure_lab_3.pdb
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_3\obj\Debug\Secure_lab_3.csprojAssemblyReference.cache
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_3\obj\Debug\Secure_lab_3.csproj.CoreCompileInputs.cache
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_3\obj\Debug\Secure_lab_3.exe
+D:\FIT\3 курс 1 семестр\Захист даних\Secure_lab_3\obj\Debug\Secure_lab_3.pdb
+C:\Users\Mi\Desktop\Secure_lab_3\bin\Debug\Secure_lab_3.exe.config
+C:\Users\Mi\Desktop\Secure_lab_3\bin\Debug\Secure_lab_3.exe
+C:\Users\Mi\Desktop\Secure_lab_3\bin\Debug\Secure_lab_3.pdb
+C:\Users\Mi\Desktop\Secure_lab_3\obj\Debug\Secure_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Secure_lab_3\obj\Debug\Secure_lab_3.exe
+C:\Users\Mi\Desktop\Secure_lab_3\obj\Debug\Secure_lab_3.pdb
+C:\Users\Andriy\Desktop\Secure_lab_3\bin\Debug\Secure_lab_3.exe.config
+C:\Users\Andriy\Desktop\Secure_lab_3\bin\Debug\Secure_lab_3.exe
+C:\Users\Andriy\Desktop\Secure_lab_3\bin\Debug\Secure_lab_3.pdb
+C:\Users\Andriy\Desktop\Secure_lab_3\obj\Debug\Secure_lab_3.csprojAssemblyReference.cache
+C:\Users\Andriy\Desktop\Secure_lab_3\obj\Debug\Secure_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Andriy\Desktop\Secure_lab_3\obj\Debug\Secure_lab_3.exe
+C:\Users\Andriy\Desktop\Secure_lab_3\obj\Debug\Secure_lab_3.pdb

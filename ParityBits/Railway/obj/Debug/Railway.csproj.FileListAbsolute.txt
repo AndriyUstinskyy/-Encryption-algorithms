@@ -1,0 +1,7 @@
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Railway\bin\Debug\Railway.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Railway\bin\Debug\Railway.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Railway\bin\Debug\Railway.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Railway\obj\Debug\Railway.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Railway\obj\Debug\Railway.pdb
+C:\Users\Andriy\Desktop\ParityBits\Railway\obj\Debug\Railway.exe
+C:\Users\Andriy\Desktop\ParityBits\Railway\obj\Debug\Railway.pdb

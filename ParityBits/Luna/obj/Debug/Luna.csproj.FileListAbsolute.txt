@@ -1,0 +1,7 @@
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Luna\bin\Debug\Luna.exe.config
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Luna\bin\Debug\Luna.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Luna\bin\Debug\Luna.pdb
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Luna\obj\Debug\Luna.exe
+C:\Users\ivase\Documents\FIT\Захист даних\ParityBits\Luna\obj\Debug\Luna.pdb
+C:\Users\Andriy\Desktop\ParityBits\Luna\obj\Debug\Luna.exe
+C:\Users\Andriy\Desktop\ParityBits\Luna\obj\Debug\Luna.pdb

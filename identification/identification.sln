@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "identification\RSA.csproj", "{873203FA-D8DF-47F7-B911-1DC876F0DEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schnorr", "Schnorr\Schnorr.csproj", "{AACAF880-3414-4A8C-8A3C-411FF5F2A464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feige-Fiat-Shamir", "Feige-Fiat-Shamir\Feige-Fiat-Shamir.csproj", "{3F4D3F66-772C-4F8D-BABC-C9540FA56410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873203FA-D8DF-47F7-B911-1DC876F0DEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873203FA-D8DF-47F7-B911-1DC876F0DEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873203FA-D8DF-47F7-B911-1DC876F0DEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873203FA-D8DF-47F7-B911-1DC876F0DEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACAF880-3414-4A8C-8A3C-411FF5F2A464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACAF880-3414-4A8C-8A3C-411FF5F2A464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACAF880-3414-4A8C-8A3C-411FF5F2A464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACAF880-3414-4A8C-8A3C-411FF5F2A464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4D3F66-772C-4F8D-BABC-C9540FA56410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4D3F66-772C-4F8D-BABC-C9540FA56410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4D3F66-772C-4F8D-BABC-C9540FA56410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4D3F66-772C-4F8D-BABC-C9540FA56410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A777501F-08B5-4226-BDDF-6F8F44080ED5}
+	EndGlobalSection
+EndGlobal
